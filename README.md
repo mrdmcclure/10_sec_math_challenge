@@ -1,4 +1,4 @@
-# random_side_projects
-This repo is to hold any random side project I did either for fun or to improve or practice coding skills
+# 10 Second Math Challenge
+Here is a basic math challenge.  You have 10 seconds to solve the math problem.  Solve as many as you can!
 
-It includes several websites I created and customized between 2022 and 2025.
+To start, enter an answer.  You may select between addition, subtraction, multiplication, and division.  You have unlimited tries but remember, your score goes back to 0 if you cannot solve the problem in 10 seconds.  Good luck!
